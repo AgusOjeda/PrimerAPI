@@ -10,3 +10,15 @@ G:\repos\Demo\Domain\obj\Debug\net6.0\Domain.dll
 G:\repos\Demo\Domain\obj\Debug\net6.0\refint\Domain.dll
 G:\repos\Demo\Domain\obj\Debug\net6.0\Domain.pdb
 G:\repos\Demo\Domain\obj\Debug\net6.0\ref\Domain.dll
+G:\primeraAPI\PrimerAPI\Demo\Domain\bin\Debug\net6.0\Domain.deps.json
+G:\primeraAPI\PrimerAPI\Demo\Domain\bin\Debug\net6.0\Domain.dll
+G:\primeraAPI\PrimerAPI\Demo\Domain\bin\Debug\net6.0\Domain.pdb
+G:\primeraAPI\PrimerAPI\Demo\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+G:\primeraAPI\PrimerAPI\Demo\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\primeraAPI\PrimerAPI\Demo\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+G:\primeraAPI\PrimerAPI\Demo\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+G:\primeraAPI\PrimerAPI\Demo\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+G:\primeraAPI\PrimerAPI\Demo\Domain\obj\Debug\net6.0\Domain.dll
+G:\primeraAPI\PrimerAPI\Demo\Domain\obj\Debug\net6.0\refint\Domain.dll
+G:\primeraAPI\PrimerAPI\Demo\Domain\obj\Debug\net6.0\Domain.pdb
+G:\primeraAPI\PrimerAPI\Demo\Domain\obj\Debug\net6.0\ref\Domain.dll

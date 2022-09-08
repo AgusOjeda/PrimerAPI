@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KmxFQL0tFtHv++1tI3F8lfn7eF8VoXL0AqhDxQqOOKMo0562apuF6CG3QzNy+ayziRYPpf362ZHU4z7LWLgoqg==",
+  "dgSpecHash": "s8TsWneszD+aJc9gKq2RDpzYXdVTdR3r6TzdhyxNggCg3aHKbUsbFP8TTNBnxl2KMcOSx1hi5KIwT30fhsAwtA==",
   "success": true,
-  "projectFilePath": "G:\\repos\\Demo\\Domain\\Domain.csproj",
+  "projectFilePath": "G:\\primeraAPI\\PrimerAPI\\Demo\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

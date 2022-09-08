@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4eFPhfPWeTd7UI5cf8ohb0yYpHMl2c1NeUMPzLNoIxLWjeT5K+LwSfGyCas3Tb2qPCD0EZF47DxeIpeUT7KStA==",
+  "dgSpecHash": "xMGaHkfLzW1PtrCSvGGoos7engZAcevkhYniFwrnxgc7cl4Leck8V9EodRQCdzh4B4zEiXkimwDJZirrARWuuw==",
   "success": true,
-  "projectFilePath": "G:\\repos\\Demo\\Infraestructure\\Infraestructure.csproj",
+  "projectFilePath": "G:\\primeraAPI\\PrimerAPI\\Demo\\Infraestructure\\Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agust\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\agust\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

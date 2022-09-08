@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\repos\\Demo\\Domain\\Domain.csproj": {}
+    "G:\\primeraAPI\\PrimerAPI\\Demo\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "G:\\repos\\Demo\\Domain\\Domain.csproj": {
+    "G:\\primeraAPI\\PrimerAPI\\Demo\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\repos\\Demo\\Domain\\Domain.csproj",
+        "projectUniqueName": "G:\\primeraAPI\\PrimerAPI\\Demo\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "G:\\repos\\Demo\\Domain\\Domain.csproj",
+        "projectPath": "G:\\primeraAPI\\PrimerAPI\\Demo\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-        "outputPath": "G:\\repos\\Demo\\Domain\\obj\\",
+        "outputPath": "G:\\primeraAPI\\PrimerAPI\\Demo\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",

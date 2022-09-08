@@ -2081,11 +2081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\repos\\Demo\\Demo\\Demo.csproj",
+      "projectUniqueName": "G:\\primeraAPI\\PrimerAPI\\Demo\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "G:\\repos\\Demo\\Demo\\Demo.csproj",
+      "projectPath": "G:\\primeraAPI\\PrimerAPI\\Demo\\Demo\\Demo.csproj",
       "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-      "outputPath": "G:\\repos\\Demo\\Demo\\obj\\",
+      "outputPath": "G:\\primeraAPI\\PrimerAPI\\Demo\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2104,8 +2104,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\repos\\Demo\\Infraestructure\\Infraestructure.csproj": {
-              "projectPath": "G:\\repos\\Demo\\Infraestructure\\Infraestructure.csproj"
+            "G:\\primeraAPI\\PrimerAPI\\Demo\\Infraestructure\\Infraestructure.csproj": {
+              "projectPath": "G:\\primeraAPI\\PrimerAPI\\Demo\\Infraestructure\\Infraestructure.csproj"
             }
           }
         }

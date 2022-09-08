@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\repos\\Demo\\Aplication\\Aplication.csproj": {}
+    "G:\\primeraAPI\\PrimerAPI\\Demo\\Aplication\\Aplication.csproj": {}
   },
   "projects": {
-    "G:\\repos\\Demo\\Aplication\\Aplication.csproj": {
+    "G:\\primeraAPI\\PrimerAPI\\Demo\\Aplication\\Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\repos\\Demo\\Aplication\\Aplication.csproj",
+        "projectUniqueName": "G:\\primeraAPI\\PrimerAPI\\Demo\\Aplication\\Aplication.csproj",
         "projectName": "Aplication",
-        "projectPath": "G:\\repos\\Demo\\Aplication\\Aplication.csproj",
+        "projectPath": "G:\\primeraAPI\\PrimerAPI\\Demo\\Aplication\\Aplication.csproj",
         "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-        "outputPath": "G:\\repos\\Demo\\Aplication\\obj\\",
+        "outputPath": "G:\\primeraAPI\\PrimerAPI\\Demo\\Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,8 +30,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\repos\\Demo\\Domain\\Domain.csproj": {
-                "projectPath": "G:\\repos\\Demo\\Domain\\Domain.csproj"
+              "G:\\primeraAPI\\PrimerAPI\\Demo\\Domain\\Domain.csproj": {
+                "projectPath": "G:\\primeraAPI\\PrimerAPI\\Demo\\Domain\\Domain.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "G:\\repos\\Demo\\Domain\\Domain.csproj": {
+    "G:\\primeraAPI\\PrimerAPI\\Demo\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\repos\\Demo\\Domain\\Domain.csproj",
+        "projectUniqueName": "G:\\primeraAPI\\PrimerAPI\\Demo\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "G:\\repos\\Demo\\Domain\\Domain.csproj",
+        "projectPath": "G:\\primeraAPI\\PrimerAPI\\Demo\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-        "outputPath": "G:\\repos\\Demo\\Domain\\obj\\",
+        "outputPath": "G:\\primeraAPI\\PrimerAPI\\Demo\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
